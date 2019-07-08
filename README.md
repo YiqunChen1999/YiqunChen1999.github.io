@@ -10,9 +10,9 @@
 
 
 
+![picture](https://raw.githubusercontent.com/YiqunChen1999/YiqunChen1999.github.io/master/34.png)
 
 
-<img src="https://github.com/YiqunChen1999/WebsiteMaintain/blob/master/38.png" alt="mypic">
 
 
 
@@ -23,7 +23,7 @@ oh my god.
 
 
 
-![picture](https://YiqunChen1999.github.io/blob/master/34.png)
+
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
