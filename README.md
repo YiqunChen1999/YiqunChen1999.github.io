@@ -1,4 +1,4 @@
-![[minima theme preview](https://raw.githubusercontent.com/YiqunChen1999/YiqunChen1999.github.io/master/logo-m.png)(http://www.vsislab.com)
+![[minima theme preview](https://raw.githubusercontent.com/YiqunChen1999/YiqunChen1999.github.io/master/logo-m.png)](http://www.vsislab.com)
 <a href="http://www.vsislab.com">
 <img src="https://raw.githubusercontent.com/YiqunChen1999/YiqunChen1999.github.io/master/logo-m.png" alt="VSISLab">
 </a>
