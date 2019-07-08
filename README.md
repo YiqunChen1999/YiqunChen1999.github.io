@@ -8,7 +8,7 @@
 
 
 
-![Image of Yaktocat](hhttps://github.com/YiqunChen1999/WebsiteMaintain/blob/master/34.png)
+![Image of Yaktocat](https://github.com/YiqunChen1999/WebsiteMaintain/blob/master/34.png)
 
 
 
