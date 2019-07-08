@@ -1,6 +1,7 @@
 ![logo](https://raw.githubusercontent.com/YiqunChen1999/WebsiteMaintain/master/logo-m.png)     
+<img src="https://raw.githubusercontent.com/YiqunChen1999/WebsiteMaintain/master/logo-m.png" alt="VisisLab">
+
 # Welcome to VisisLab
-### Dataset         Chinese       Contact Us
 
 
 
