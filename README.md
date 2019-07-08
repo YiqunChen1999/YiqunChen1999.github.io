@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![hello](/master/Screenshot%20from%202019-07-08%2013-40-34.png "picture")
+![hello](./master/Screenshot%20from%202019-07-08%2013-40-34.png "picture")
 
 
 You can use the [editor on GitHub](https://github.com/YiqunChen1999/YiqunChen1999.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
