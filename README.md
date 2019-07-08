@@ -23,7 +23,7 @@ well, not so good.
 
 
 
-![picture](https://github.com/YiqunChen1999/YiqunChen1999.github.io/blob/master/34.png)
+![picture](https://YiqunChen1999.github.io/blob/master/34.png)
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
