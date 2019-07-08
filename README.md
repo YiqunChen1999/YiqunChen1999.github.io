@@ -18,7 +18,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 | tables | header | markdown |
 | ------ | ------ | -------- |
 | hello  | table  | nd       |
-| sjdfl  | sdfsa  | sdflsj dj|
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
