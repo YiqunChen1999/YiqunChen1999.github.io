@@ -9,6 +9,8 @@
 
 ![picture](https://YiqunChen1999/YiqunChen1999.github.io)
 
+![Philadelphia's Magic Gardens. This place was so cool!](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens")
+
 You can use the [editor on GitHub](https://github.com/YiqunChen1999/YiqunChen1999.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
