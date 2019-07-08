@@ -1,20 +1,13 @@
-# Jekyll Materialize Starter Template v0.1
+# Welcome to VSISLab
 
-*A Site Starter Materialize Templates.
+*A site of VSISLab, support a dataset and allows you to train and submit your result.
 
-The theme is a fork of the [minima][1]
-
-![minima theme preview](/screenshot.png)
+![minima theme preview](https://raw.githubusercontent.com/YiqunChen1999/YiqunChen1999.github.io/master/logo-m.png)
 
 
 # License
-
-The theme is available as so I use this source [MIT License][2].
+MIT Liscence
 
 [Materialize][3] a  modern responsive front-end framework based on Material Design
 
-Copyright © 2017 Marco Damiani. Powered by <a href="http://jekyllrb.com">Jekyll</a>
-
-[1]: https://github.com/jekyll/minima
-[2]: https://opensource.org/licenses/MIT
-[3]: http://materializecss.com/
+Copyright © 2019VSISLab. 
