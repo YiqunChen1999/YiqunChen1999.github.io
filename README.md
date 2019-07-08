@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-| Syntax      | Description |
+| S      | Description |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
