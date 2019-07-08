@@ -17,7 +17,7 @@ hello here the cat.
 
 
 
-![hello](/github.com/YiqunChen1999/YiqunChen1999.github.io/blob/master/Screenshot%20from%202019-07-08%2013-40-34.png)
+![hello](https://YiqunChen1999.github.io/blob/master/Screenshot%20from%202019-07-08%2013-40-34.png)
 
 ![picture](https://github.com/YiqunChen1999/YiqunChen1999.github.io/blob/master/34.png)
 
