@@ -1,14 +1,42 @@
 ![logo](https://raw.githubusercontent.com/YiqunChen1999/WebsiteMaintain/master/logo-m.png)     
 <img src="https://raw.githubusercontent.com/YiqunChen1999/WebsiteMaintain/master/logo-m.png" alt="VisisLab">
 
+
 # Welcome to VisisLab
 
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
-![Philadelphia's Magic Gardens. This place was so cool!](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/YiqunChen1999/YiqunChen1999.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
