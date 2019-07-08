@@ -7,7 +7,7 @@
 
 ![hello](/github.com/YiqunChen1999/YiqunChen1999.github.io/blob/master/Screenshot%20from%202019-07-08%2013-40-34.png)
 
-![picture](https://YiqunChen1999/YiqunChen1999.github.io)
+![picture](https://github.com/YiqunChen1999/YiqunChen1999.github.io/blob/master/34.png)
 
 ![Philadelphia's Magic Gardens. This place was so cool!](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens")
 
