@@ -1,83 +1,20 @@
-![logo](https://raw.githubusercontent.com/YiqunChen1999/WebsiteMaintain/master/logo-m.png)     
-<img src="https://raw.githubusercontent.com/YiqunChen1999/WebsiteMaintain/master/logo-m.png" alt="VisisLab">
-<img src="https://raw.githubusercontent.com/YiqunChen1999/WebsiteMaintain/master/logo-m.png" alt="VisisLab">
-<img src="https://raw.githubusercontent.com/YiqunChen1999/WebsiteMaintain/master/logo-m.png" alt="VisisLab">
-<p>
-<a href="https://YiqunChen1999.github.io">  Home  </a>
-<a href="http://www.vsislab.com">   Our Lab   </a>
-</p>
-# Welcome to VisisLab
+# Jekyll Materialize Starter Template v0.1
+
+*A Site Starter Materialize Templates.
+
+The theme is a fork of the [minima][1]
+
+![minima theme preview](/screenshot.png)
 
 
+# License
 
+The theme is available as so I use this source [MIT License][2].
 
+[Materialize][3] a  modern responsive front-end framework based on Material Design
 
+Copyright © 2017 Marco Damiani. Powered by <a href="http://jekyllrb.com">Jekyll</a>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-You can use the [editor on GitHub](https://github.com/YiqunChen1999/YiqunChen1999.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-| tables | header | markdown |
-| ------ | ------ | -------- |
-| hello  | table  | nd       |
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YiqunChen1999/YiqunChen1999.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[1]: https://github.com/jekyll/minima
+[2]: https://opensource.org/licenses/MIT
+[3]: http://materializecss.com/
