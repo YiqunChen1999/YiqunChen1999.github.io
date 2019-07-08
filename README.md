@@ -2,10 +2,10 @@
 <img src="https://raw.githubusercontent.com/YiqunChen1999/WebsiteMaintain/master/logo-m.png" alt="VisisLab">
 <img src="https://raw.githubusercontent.com/YiqunChen1999/WebsiteMaintain/master/logo-m.png" alt="VisisLab">
 <img src="https://raw.githubusercontent.com/YiqunChen1999/WebsiteMaintain/master/logo-m.png" alt="VisisLab">
+<p>
 <a href="https://YiqunChen1999.github.io">  Home  </a>
-<tb>
 <a href="http://www.vsislab.com">   Our Lab   </a>
-
+</p>
 # Welcome to VisisLab
 
 
