@@ -4,9 +4,7 @@
 <img src="https://raw.githubusercontent.com/YiqunChen1999/WebsiteMaintain/master/logo-m.png" alt="VisisLab">
 <p>
 <a href="https://YiqunChen1999.github.io">  Home  </a>
-  <td>
 <a href="http://www.vsislab.com">   Our Lab   </a>
-  </td>
 </p>
 # Welcome to VisisLab
 
