@@ -10,6 +10,6 @@
 A website of VSISLab, support a dataset and allows you to train and submit your result.
 
 # License
-MIT Liscence[https://github.com/YiqunChen1999/YiqunChen1999.github.io/blob/master/LICENSE.txt]
+[MIT Liscence](https://github.com/YiqunChen1999/YiqunChen1999.github.io/blob/master/LICENSE.txt)
 
 Copyright © 2019VSISLab. 
