@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/YiqunChen1999/YiqunChen1999.github.io/master/logo-m.png" alt="VSISLab">
 </a>
 
-[Home](https://YiqunChen1999.github.io)|[Our Lab](http://www.vsislab.com/)|[Datasets](https://github.com/YiqunChen1999/YiqunChen1999.github.io/blob/master/house-prices-advanced-regression-techniques.zip?raw=true)|[Submit Result](https://raw.githubusercontent.com/YiqunChen1999/YiqunChen1999.github.io/master/logo-m.png)
+[Home](https://YiqunChen1999.github.io)|[Our Lab](http://www.vsislab.com/)|[Datasets](https://github.com/YiqunChen1999/YiqunChen1999.github.io/blob/master/house-prices-advanced-regression-techniques.zip?raw=true)|[Submit Result](https://raw.githubusercontent.com/YiqunChen1999/YiqunChen1999.github.io/master/logo-m.png)|[Contact Us](YIqunChen1999@163.com)
 
 
 # Welcome to VSISLab
@@ -10,6 +10,6 @@
 A website of VSISLab, support a dataset and allows you to train and submit your result.
 
 # License
-MIT Liscence
+MIT Liscence[https://github.com/YiqunChen1999/YiqunChen1999.github.io/blob/master/LICENSE.txt]
 
 Copyright © 2019VSISLab. 
