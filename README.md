@@ -77,12 +77,10 @@ If you have any question about other people's model, you can email the author by
 
 If you have any other question, you can emal us by clicking <YiqunChen1999@163.com>.
 
-<form action="https://raw.githubusercontent.com/YiqunChen1999/YiqunChen1999.github.io/master/Processing.php" method="get">
-  (Group)Name: <input type="text" name="name"><br>
-  Model: <input type="text" name="model"><br>
-  Accuracy: <input type="text" name="accuracy"><br>
-  Email: <input type="text" name="email"><br>
-  <input type="submit" value="Submit">
+<form action="https://raw.githubusercontent.com/YiqunChen1999/YiqunChen1999.github.io/master/Processing.php" method="post">
+Name: <input type="text" name="name"><br>
+E-mail: <input type="text" name="email"><br>
+<input type="submit">
 </form>
 
 <p>Click on the submit button, and the input will be sent to a page on the server called "/action_page.php".</p>
