@@ -1,1 +1,4 @@
-
+name:
+model:
+accuracy:
+email:
