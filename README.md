@@ -9,7 +9,7 @@
 
 # Welcome to VSISLab
 
-A website of [VSISLab](http://www.vsislab.com), support a [Dataset](#dataset) and allows you to train and [submit your result](#submit-your-result).
+A website of [VSISLab](http://www.vsislab.com), support a [Dataset](#dataset) for you to train your model and [submit your result](#submit-your-result).
 
 
 
