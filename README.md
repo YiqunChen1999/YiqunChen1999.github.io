@@ -60,7 +60,9 @@ Rank|Name|Model|Accuracy|Mail
 To use this dataset, click the [Dataset](https://github.com/YiqunChen1999/YiqunChen1999.github.io/blob/master/house-prices-advanced-regression-techniques.zip?raw=true) to download the dataset.
 The dataset contains 1111 pictures and the.......
 
-# License{#license}
+<h1 id="#license">License</h3>
+
+# License
 [MIT Liscence](https://raw.githubusercontent.com/YiqunChen1999/YiqunChen1999.github.io/master/LICENSE.txt)
 
 Copyright © 2019VSISLab. 
