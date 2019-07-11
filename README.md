@@ -78,8 +78,10 @@ If you have any question about other people's model, you can email the author by
 If you have any other question, you can emal us by clicking <YiqunChen1999@163.com>.
 
 <form action="/action_page.php" method="get" target="_blank">
-  First name: <input type="text" name="fname"><br>
-  Last name: <input type="text" name="lname"><br>
+  (Group)Name: <input type="text" name="name"><br>
+  Model: <input type="text" name="model"><br>
+  Accuracy: <input type="text" name="accuracy"><br>
+  Email: <input type="text" name="email"><br>
   <input type="submit" value="Submit">
 </form>
 
