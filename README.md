@@ -77,7 +77,7 @@ If you have any question about other people's model, you can email the author by
 
 If you have any other question, you can emal us by clicking <YiqunChen1999@163.com>.
 
-<form action="https://raw.githubusercontent.com/YiqunChen1999/YiqunChen1999.github.io/master/Processing.php" method="post">
+<form action="https://raw.githubusercontent.com/YiqunChen1999/WebsiteMaintain/master/Processing.php" method="post">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
 <input type="submit">
