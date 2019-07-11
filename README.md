@@ -77,7 +77,7 @@ If you have any question about other people's model, you can email the author by
 
 If you have any other question, you can emal us by clicking <YiqunChen1999@163.com>.
 
-<form action="/action_page.php" method="get" target="_blank">
+<form action="https://raw.githubusercontent.com/YiqunChen1999/YiqunChen1999.github.io/master/data.php" method="get" target="_blank">
   (Group)Name: <input type="text" name="name"><br>
   Model: <input type="text" name="model"><br>
   Accuracy: <input type="text" name="accuracy"><br>
