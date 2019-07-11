@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/YiqunChen1999/YiqunChen1999.github.io/master/logo-m.png" alt="VSISLab">
 </a>
 
-[Home](https://YiqunChen1999.github.io)|[Our Lab](http://www.vsislab.com/)|[Leader Board](#leader-board)|[Datasets](#dataset)|[Submit Result](#submit-your-result)|[Liscense](#license)
+[Home](https://YiqunChen1999.github.io)|[Our Lab](http://www.vsislab.com/)|[Leader Board](#leader-board)|[Datasets](#dataset)|[Submit Result](#submit-your-result)|[Contact Us](#contact-us)|[Liscense](#license)
 
 
 
@@ -77,9 +77,13 @@ If you have any question about other people's model, you can email the author by
 
 If you have any other question, you can emal us by clicking <YiqunChen1999@163.com>.
 
-Good luck for your model!
 
+# Contact Us
 
+Email:<YiqunChen1999@163.com>
+QQ:
+LinkIn:
+Twitter:
 
 # License
 
