@@ -1,11 +1,10 @@
 <html>
 <header>
 <body>
-<?php
-$myfile = fopen("license.txt", "r") or die("Unable to open file!");
-echo fread($myfile,filesize("license.txt"));
-fclose($myfile);
-?> 
+  
+Welcome <?php echo $_POST["name"]; ?><br>
+Your email address is: <?php echo $_POST["email"]; ?>
+
 </body>
 </header>
 </html>
