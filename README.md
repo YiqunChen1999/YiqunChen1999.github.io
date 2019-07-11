@@ -80,13 +80,10 @@ If you have any other question, you can emal us by clicking <YiqunChen1999@163.c
 
 # Contact Us
 
-Email : <YiqunChen1999@163.com>
-
-QQ : [592549603](https://www.imqq.com/)
-
-LinkIn : 
-
-Twitter : 
+Email | <YiqunChen1999@163.com>
+QQ | [592549603](https://www.imqq.com/)
+LinkIn | 
+Twitter | 
 
 
 # License
