@@ -77,6 +77,13 @@ If you have any question about other people's model, you can email the author by
 
 If you have any other question, you can emal us by clicking <YiqunChen1999@163.com>.
 
+<form action="/action_page.php" method="get" target="_blank">
+  First name: <input type="text" name="fname"><br>
+  Last name: <input type="text" name="lname"><br>
+  <input type="submit" value="Submit">
+</form>
+
+<p>Click on the submit button, and the input will be sent to a page on the server called "/action_page.php".</p>
 
 # Contact Us
 
