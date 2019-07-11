@@ -71,7 +71,7 @@ The dataset contains 1111 pictures and the.......
 
 # Submit Your Result
 
-After you finished your training and predicting your model, you can submit your result by completing the form below. Note that keep your information correct, otherwise your information may be deleted.
+After you finished your training and predicting your model, you can submit your result by filling the form below. Note that keep your information correct, otherwise your information may be deleted.
 
 If you have any question about other people's model, you can email the author by clicking the link in the [Leader Board](#leader-board).
 
