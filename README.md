@@ -7,7 +7,7 @@
 
 
 
-# Welcome to VSISLab
+# LSUN layout estimation dataset
 
 A website of [VSISLab](http://www.vsislab.com), support a [Dataset](#dataset) for you to train your model and [submit your result](#submit-your-result).
 
