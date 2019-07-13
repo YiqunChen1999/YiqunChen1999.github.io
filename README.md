@@ -18,43 +18,6 @@ Rank|Name|Model|Accuracy|Mail
 1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
 1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
 1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
 
 
 
@@ -73,7 +36,8 @@ To use this dataset, click [Here](https://yiqunchen1999.github.io/Dataset_2/) to
 
 After you finished your training and predicting your model, you can submit your result by filling the form below. Note that keep your information correct, otherwise your information may be deleted.
 
-To com
+To submit your result, we strongly recommend you run on [Codalab](https://competitions.codalab.org/) to submit your result.
+Your result will appear on [this site](https://competitions.codalab.org/) after your program finish running.
 
 If you have any question about other people's model, you can email the author by clicking the link in the [Leader Board](#leader-board).
 
