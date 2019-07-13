@@ -60,12 +60,14 @@ Rank|Name|Model|Accuracy|Mail
 
 # Dataset
 
-### [Download Dataset](https://github.com/YiqunChen1999/YiqunChen1999.github.io/blob/master/house-prices-advanced-regression-techniques.zip?raw=true)
+### [Download Dataset_1](https://yiqunchen1999.github.io/Dataset_1/)
 
-To use this dataset, click the [Here](https://github.com/YiqunChen1999/YiqunChen1999.github.io/blob/master/house-prices-advanced-regression-techniques.zip?raw=true) to download the dataset.
+To use this dataset, click the [Here](https://yiqunchen1999.github.io/Dataset_1/) to download the dataset.
 The dataset contains 1111 pictures and the.......
 
+### [Download Dataset_2](https://yiqunchen1999.github.io/Dataset_2/)
 
+To use this dataset, click [Here](https://yiqunchen1999.github.io/Dataset_2/) to download the dataset.
 
 # Submit Your Result
 
