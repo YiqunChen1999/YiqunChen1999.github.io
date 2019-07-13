@@ -1,15 +1,13 @@
-<a href="http://www.vsislab.com">
-<img src="https://raw.githubusercontent.com/YiqunChen1999/YiqunChen1999.github.io/master/logo-m.png" alt="VSISLab">
-</a>
 
-[Home](https://YiqunChen1999.github.io)|[Our Lab](http://www.vsislab.com/)|[Leader Board](#leader-board)|[Datasets](#dataset)|[Submit Result](#submit-your-result)|[Contact Us](#contact-us)|[Liscense](#license)|[Subpage](https://yiqunchen1999.github.io/WebsiteMaintain/)
+
+[Home](https://YiqunChen1999.github.io)|[Leader Board](#leader-board)|[Datasets](#dataset)|[Submit Result](#submit-your-result)|[Contact Us](#contact-us)|[Liscense](#license)|[Subpage](https://yiqunchen1999.github.io/WebsiteMaintain/)
 
 
 
 
-# Welcome to VSISLab
+# Welcome to LSUN Layout Estimation Dataset
 
-A website of [VSISLab](http://www.vsislab.com), support a [Dataset](#dataset) for you to train your model and [submit your result](#submit-your-result).
+We support a [Dataset](#dataset) for you to train your model and [submit your result](#submit-your-result).
 
 
 
@@ -73,15 +71,11 @@ The dataset contains 1111 pictures and the.......
 
 After you finished your training and predicting your model, you can submit your result by filling the form below. Note that keep your information correct, otherwise your information may be deleted.
 
+To com
+
 If you have any question about other people's model, you can email the author by clicking the link in the [Leader Board](#leader-board).
 
 If you have any other question, you can emal us by clicking <YiqunChen1999@163.com>.
-
-<form action="WebsiteMaintain/tree/Processing/Processing.php" method="get">
-Name: <input type="text" name="name"><br>
-E-mail: <input type="text" name="email"><br>
-<input type="submit">
-</form>
 
 
 # Contact Us
