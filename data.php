@@ -1,4 +1,0 @@
-name:
-model:
-accuracy:
-email:
