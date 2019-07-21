@@ -7,7 +7,7 @@
 
 # Welcome to LSUN Layout Estimation Dataset
 
-We support a [Dataset](#dataset) for you to train your model and [submit your result](#submit-your-result).
+We offer a [Dataset](#dataset) for you to train your model and [submit your result](#submit-your-result).
 
 
 
@@ -25,8 +25,7 @@ Rank|Name|Model|Accuracy|Mail
 
 ### [Download Dataset_1](https://yiqunchen1999.github.io/Dataset_1/)
 
-To use this dataset, click the [Here](https://yiqunchen1999.github.io/Dataset_1/) to download the dataset.
-The dataset contains 1111 pictures and the.......
+To use this dataset, click [Here](https://yiqunchen1999.github.io/Dataset_1/) to download the dataset.
 
 ### [Download Dataset_2](https://yiqunchen1999.github.io/Dataset_2/)
 
@@ -34,10 +33,9 @@ To use this dataset, click [Here](https://yiqunchen1999.github.io/Dataset_2/) to
 
 # Submit Your Result
 
-After you finished your training and predicting your model, you can submit your result by filling the form below. Note that keep your information correct, otherwise your information may be deleted.
+After you finished your training and predicting your model, you can submit your result by email YiqunChen1999@163.com. Note that keep your information correct, otherwise your information may be deleted.
 
-To submit your result, we strongly recommend you run on [Codalab](https://competitions.codalab.org/) to submit your result.
-Your result will appear on [this site](https://competitions.codalab.org/) after your program finish running.
+To ![submit](https://github.com/YiqunChen1999/YiqunChen1999.github.io/blob/master/Uploading.MD) your result, we strongly recommend you run on [Codalab](https://competitions.codalab.org/) to submit your result. Maybe you need to read ![this guide](https://github.com/YiqunChen1999/YiqunChen1999.github.io/blob/master/Uploading.MD) first
 
 If you have any question about other people's model, you can email the author by clicking the link in the [Leader Board](#leader-board).
 
