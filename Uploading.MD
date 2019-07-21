@@ -45,4 +45,4 @@ https://github.com/codalab/codalab-worksheets/wiki/CLI-Basics#installation
 
 https://worksheets.codalab.org
 
-https://worksheets.codalab.org/worksheets/0x8212d84ca41c4150b555a075b19ccc05/
+### If you have any questions in submitting your result, please email YiqunChen1999@163.com
