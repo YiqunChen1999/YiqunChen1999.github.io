@@ -35,7 +35,7 @@ To use this dataset, click [Here](https://yiqunchen1999.github.io/Dataset_2/) to
 
 After you finished your training and predicting your model, you can submit your result by email <YiqunChen1999@163.com>. Note that keep your information correct, otherwise your information may be deleted.
 
-To ![submit](https://github.com/YiqunChen1999/YiqunChen1999.github.io/blob/master/Uploading.MD) your result, you should run on [Codalab](https://competitions.codalab.org/) first. Maybe you need to read ![this guide](https://github.com/YiqunChen1999/YiqunChen1999.github.io/blob/master/Uploading.MD) first.
+To ![submit](https://github.com/YiqunChen1999/YiqunChen1999.github.io/blob/master/Uploading.MD) your result, you should run on [Codalab](https://competitions.codalab.org/) first. Maybe you need to read this ![guide](https://github.com/YiqunChen1999/YiqunChen1999.github.io/blob/master/Uploading.MD) first.
 
 If you have any question about other people's model, you can email the author by clicking the link in the [Leader Board](#leader-board) or email <YiqunChen1999@163.com>.
 
