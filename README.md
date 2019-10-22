@@ -5,7 +5,7 @@
 
 
 
-# Welcome to LSUN Layout Estimation Dataset
+# Welcome to LSUN Layout Estimation Dataset website.
 
 We offer a [Dataset](#dataset) for you to train your model and [submit your result](#submit-your-result).
 
@@ -13,11 +13,7 @@ We offer a [Dataset](#dataset) for you to train your model and [submit your resu
 
 # Leader Board
 
-Rank|Name|Model|Accuracy|Mail
-----|----|-----|--------|----
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
-1   |Yiqun Chen|ResNet|0.99   |<YiqunChen1999@163.com>
+Temporally unavailable.
 
 
 
@@ -26,10 +22,6 @@ Rank|Name|Model|Accuracy|Mail
 ### [Download Dataset_1](https://yiqunchen1999.github.io/Dataset_1/)
 
 To use this dataset, click [Here](https://yiqunchen1999.github.io/Dataset_1/) to download the dataset.
-
-### [Download Dataset_2](https://yiqunchen1999.github.io/Dataset_2/)
-
-To use this dataset, click [Here](https://yiqunchen1999.github.io/Dataset_2/) to download the dataset.
 
 # Submit Your Result
 
@@ -45,7 +37,7 @@ If you have any other question, you can emal us by clicking <YiqunChen1999@163.c
 # Contact Us
 
 Email | <YiqunChen1999@163.com>
-QQ | [592549603](https://www.imqq.com/)
+QQ | 
 LinkIn | 
 Twitter | 
 
