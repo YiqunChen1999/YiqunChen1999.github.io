@@ -1,12 +1,13 @@
 
 
-[Home](https://YiqunChen1999.github.io)|[Biography](#Biography)|[Contact ME](#contact-me)
+[Home](https://YiqunChen1999.github.io)|[Biography](#Biography)|[Contact Me](#contact-me)
 
 
 # Biography
 
+Currently I am a student from Shandong University.
 
-# Contact ME
+# Contact Me
 
 Email | <YiqunChen1999@mail.sdu.edu.cn>
 
