@@ -1,25 +1,15 @@
 
 
-[Home](https://YiqunChen1999.github.io)|[Contact ME](#contact-me)|[Liscense](#license)
+[Home](https://YiqunChen1999.github.io)|[Biography](#Biography)|[Contact ME](#contact-me)
 
 
-
-
-# Welcome to Yiqun's website.
-
-
+# Biography
 
 
 # Contact ME
 
-Email | <YiqunChen1999@163.com>
-QQ | 
-LinkIn | 
-Twitter | 
+Email | <YiqunChen1999@mail.sdu.edu.cn>
 
 
-# License
-
-[MIT Liscence](https://raw.githubusercontent.com/YiqunChen1999/YiqunChen1999.github.io/master/LICENSE.txt)
 
 
