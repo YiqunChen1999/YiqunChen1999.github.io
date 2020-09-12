@@ -9,7 +9,7 @@ Currently I am a student from Shandong University.
 
 # Contact Me
 
-Email | <YiqunChen1999@mail.sdu.edu.cn>
+Email | <yiqunchen1999@mail.sdu.edu.cn>
 
 
 
