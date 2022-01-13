@@ -3,45 +3,25 @@
 [Home](https://YiqunChen1999.github.io)|[Biography](#Biography)|[Contact Me](#contact-me)
 
 
-# Biography
+## Biography
 
-Currently I am a student from Shandong University.
+Currently I am a graduate student from Institution of Automation, Chiese Academy of Science.
 
-# Published Packages
+## More about Deep Learning
 
-## AttribDict
+| Item | URL | Descriptions |
+| ---- | --- | ------------ |
+| My Blogs | https://github.com/YiqunChen1999/blogs | None |
+| Tools for Deep Learning | https://github.com/YiqunChen1999/Tools-for-Deep-Learning | None |
+| Haze Removal List | https://github.com/YiqunChen1999/HazeRemovalList | A list containing recent papers (with code) and datasets |
+| NTIRE 2021 Defocus Deblurring of Dual Pixel images | https://github.com/YiqunChen1999/NTIRE2021DDDP | A solution of Defocus Deblurring Track of NTIRE 2021 Competition |
+| NTIRE 2021 Non-Homogeneous Dehazing | https://github.com/YiqunChen1999/NTIRE2021NHDehazing | A solution of Non-Homogeneous Dehazing Track of NTIRE 2021 Competition |
+| AlphaConfig | https://github.com/YiqunChen1999/alphaconfig | An easy to use and easy to read dict (for configuration of any project) |
 
-[GitHub](https://github.com/YiqunChen1999/attribdict)
 
-[PyPI](https://pypi.org/project/attribdict/)
+## Contact Me
 
-AttribDict is an easy to use and easy to read dict, it is more flexible and human readable.
-
-Examples
-
-```python
->>> from attribdict import AttribDict as Dict
->>> _d = {"attr"+str(i): i for i in range(4)}
->>> d = Dict(_d)
->>> d.attr4.subattr1.subsubattr1 = 123
->>> d.attr5 = {"subattr"+str(i): i for i in range(3)}
->>> print(d)
-attr0: 0
-attr1: 1
-attr2: 2
-attr3: 3
-attr4:
-    - subattr1:
-        - subsubattr1: 123
-attr5:
-    - subattr0: 0
-    - subattr1: 1
-    - subattr2: 2
-```
-
-# Contact Me
-
-Email | <yiqunchen1999@mail.sdu.edu.cn>
+Email | <chenyiqun2021@ia.ac.cn>
 
 
 
