@@ -1,11 +1,11 @@
 
 
-[Home](https://YiqunChen1999.github.io)|[Biography](#Biography)|[Contact Me](#contact-me)
+[Home](https://YiqunChen1999.github.io)|[Biography](#Biography)|[More about Deep Learning](#more-about-deep-learning)|[Contact Me](#contact-me)
 
 
 ## Biography
 
-Currently I am a graduate student from Institution of Automation, Chiese Academy of Science.
+Currently I am a graduate student from Institution of Automation, Chiese Academy of Sciences.
 
 ## More about Deep Learning
 
